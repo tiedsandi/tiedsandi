@@ -100,12 +100,16 @@ _Sarjana Teknik Informatika_ — Lulus Tahun 2023
 
 ## 📈 Statistik GitHub
 
-![Github Streak](https://nirzak-streak-stats.vercel.app/?user=tiedsandi&theme=dark&hide_border=false)  
-![GitHub Stats](https://raw.githubusercontent.com/tiedsandi/tiedsandi/master/generated/overview.svg#gh-dark-mode-only)
-![Top Languages](https://raw.githubusercontent.com/tiedsandi/tiedsandi/master/generated/languages.svg#gh-dark-mode-only)
+<div align="center">
+
+  <img src="/images/9ub9qn.gif" alt="Funny GIF" height="200" />
+
+<br/><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=tiedsandi&theme=dark&hide_border=false" alt="GitHub Streak" />
+<br/>
+<img src="https://raw.githubusercontent.com/tiedsandi/tiedsandi/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/tiedsandi/tiedsandi/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
+
+</div>
 
 ---
-
-<div align="center">
-  <img src="/images/9ub9qn.gif" alt="gif" height="200" />
-</div>
