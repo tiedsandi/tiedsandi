@@ -102,7 +102,7 @@ _Sarjana Teknik Informatika_ — Lulus Tahun 2023
 
 <div align="center">
 
-  <img src="/images/9ub9qn.gif" alt="Funny GIF" height="200" />
+  <img src="/images/9ubbpa.gif" alt="Funny GIF" height="200" />
 
 <br/><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=tiedsandi&theme=dark&hide_border=false" alt="GitHub Streak" />
