@@ -23,7 +23,7 @@ I'm a developer who started my career as a **Front-End Developer** focused on **
 
 *Pendidikan*
 
-**Universitas Pembangunan Nasional “Veteran” Jakarta (UPNVJ)**
+**Universitas Pembangunan Nasional “Veteran” Jakarta (UPNVJ)**<br>
 Bachelor of Computer Engineering — Graduated in 2023<br>
 *Sarjana Teknik Informatika — Lulus Tahun 2023*
 
@@ -70,7 +70,7 @@ Bachelor of Computer Engineering — Graduated in 2023<br>
 
 *Sertifikasi & Pelatihan*
 
-* **Web Programming - PPKD (Regional Job Training Center)**
+* **Web Programming - PPKD (Regional Job Training Center)**<br>
   BNSP Certification Training (February 2025 – April 2025)<br>
   *Pelatihan Sertifikasi BNSP (Februari 2025 – April 2025)*
 * **React TypeScript - Udemy** (December 2024)
@@ -144,6 +144,6 @@ Bachelor of Computer Engineering — Graduated in 2023<br>
 
   <img src="/images/9ubbpa.gif" alt="Funny GIF" height="200" />
 
-<br/><br/> <img src="https://nirzak-streak-stats.vercel.app/?user=tiedsandi&theme=dark&hide_border=false" alt="GitHub Streak" /> <br/> <img src="https://raw.githubusercontent.com/tiedsandi/tiedsandi/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" /> <img src="https://raw.githubusercontent.com/tiedsandi/tiedsandi/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
+<br/> <img src="https://nirzak-streak-stats.vercel.app/?user=tiedsandi&theme=dark&hide_border=false" alt="GitHub Streak" /> <br/> <img src="https://raw.githubusercontent.com/tiedsandi/tiedsandi/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" /> <img src="https://raw.githubusercontent.com/tiedsandi/tiedsandi/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
 
 </div>
