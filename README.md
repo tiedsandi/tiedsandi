@@ -1,8 +1,8 @@
-
+<!-- 
 <div align="center">
   <img src="/images/github-header.png" alt="banner"/>
 </div>
-
+-->
 
 # 👋 Hello, I'm Fachran Sandi
 
