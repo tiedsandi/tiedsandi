@@ -1,140 +1,104 @@
-<!-- 
-<div align="center">
-  <img src="/images/github-header.png" alt="banner"/>
-</div>
--->
-
 # 👋 Hello, I'm Fachran Sandi
 
-*Halo, saya Fachran Sandi*
+A Junior Web Developer with experience at **Sinarmas Land** and several personal projects. Proficient in **JavaScript**, **PHP**, **Go**, and **React.js**—skilled in both front-end and back-end development. I enjoy building interactive interfaces, developing RESTful APIs, and continuously learning new tech.
 
-I'm a developer who started my career as a **Front-End Developer** focused on **React.js**, and now I'm diving deeper into **Fullstack Development** using **Laravel** as my main backend framework.<br>
-*Saya adalah seorang developer yang memulai karier sebagai **Front-End Developer** dengan fokus pada **React.js**, dan kini sedang mendalami **Fullstack Development** menggunakan **Laravel** sebagai backend utama.*
+🚀 BNSP-certified in programming, passionate about scalable systems, and committed to writing clean, maintainable code.
 
-🌱 Currently exploring backend technologies, building APIs, and enhancing my skills in developing scalable and maintainable systems.<br>
-*Saat ini saya sedang mengeksplorasi teknologi backend, membangun API, serta memperkuat skill saya dalam pengembangan sistem yang scalable dan maintainable.*
-
-💼 My portfolio: [https://fachran-sandi.netlify.app/](https://fachran-sandi.netlify.app/)<br>
-*Portfolio saya: [https://fachran-sandi.netlify.app/](https://fachran-sandi.netlify.app/)*
+> 📌 Curious about my works?
+> 👉 Visit my portfolio: [https://fachran-sandi.netlify.app](https://fachran-sandi.netlify.app)
 
 ---
 
 ## 🎓 Education
 
-*Pendidikan*
-
-**Universitas Pembangunan Nasional “Veteran” Jakarta (UPNVJ)**<br>
-Bachelor of Computer Engineering — Graduated in 2023<br>
-*Sarjana Teknik Informatika — Lulus Tahun 2023*
-
-* Thesis: "User Review Classification Using Support Vector Machine Method on the Halodoc Application"<br>
-  *Skripsi: "Klasifikasi Ulasan Pengguna Menggunakan Metode Support Vector Machine pada Aplikasi Halodoc"*
-* Main areas of study: Data Structures, Software Engineering, and Web Programming<br>
-  *Fokus studi pada: Struktur Data, Rekayasa Perangkat Lunak, dan Pemrograman Web*
-* Actively participated as a committee member in various faculty events<br>
-  *Aktif sebagai anggota komite berbagai acara fakultas*
-* Teaching Assistant for *Introduction to Databases* course (2020)<br>
-  *Asisten Dosen Mata Kuliah Pengantar Basis Data (2020)*
+**Universitas Pembangunan Nasional “Veteran” Jakarta**
+Bachelor of Computer Engineering — Graduated Jan 2023
+GPA: **3.80 / 4.00**
 
 ---
 
 ## 🛠️ Tech Stack
 
-*Teknologi yang Dikuasai*
+### 💻 Frontend
 
-### 🚀 Frontend
+* HTML, CSS, JavaScript
+* React.js, Vite, jQuery
+* Tailwind CSS, Sass
+* TypeScript
+* Firebase (Authentication & Firestore)
+* Jest (Testing)
 
-* **Languages**: JavaScript, HTML, CSS<br>
-  *Bahasa: JavaScript, HTML, CSS*
-* **Framework**: React.js
-* **State Management**: Redux
-* **Styling**: Sass, Tailwind CSS
-* **Testing**: Jest
+### 💽 Backend
 
-### ⚙️ Backend
+* PHP (Laravel)
+* Node.js (Express.js)
+* Go (Gin Framework, GORM)
+* RESTful API Development
 
-* **Frameworks**: Laravel, Express.js
-* **Languages**: PHP, JavaScript (Node.js)
-* **Databases**: MySQL, MongoDB
-* **API Development**: RESTful APIs
+### 👥 Databases
 
-### 🔧 Others
+* MySQL, PostgreSQL, SQLite
+* MongoDB, Firebase
 
-* **Version Control**: Git & GitHub
-* **Tools**: VSCode, Postman, OutSystems
-* **Methodologies**: Agile (Scrum / Kanban)
+### 🔧 Tools & Workflow
 
----
-
-## 📚 Certifications & Training
-
-*Sertifikasi & Pelatihan*
-
-* **Web Programming - PPKD (Regional Job Training Center)**<br>
-  BNSP Certification Training (February 2025 – April 2025)<br>
-  *Pelatihan Sertifikasi BNSP (Februari 2025 – April 2025)*
-* **React TypeScript - Udemy** (December 2024)
-* **Next.js - Udemy** (October 2024)
-* **HTML - Programming Hub** (March 2023)
-* **CSS - Programming Hub** (March 2023)
-* **Binar Academy Bootcamp** – Fullstack Web Development (July 2022)
+* Git & GitHub
+* Postman
+* VSCode
+* OutSystems (Low-Code Platform)
+* Agile (Scrum/Kanban)
 
 ---
 
 ## 💼 Experience
 
-*Pengalaman*
+### 💡 Outsystems Developer — **Sinarmas Land**
 
-### 🖥️ Outsystems Developer – Sinarmas Land (November 2023 – August 2024)
+*Nov 2023 – Aug 2024*
 
-* Developed applications using the **low-code OutSystems** platform with React-based workflows<br>
-  *Mengembangkan aplikasi dengan platform **low-code OutSystems** berbasis workflow React*
-* Focused on **web and mobile responsiveness**<br>
-  *Fokus pada **responsivitas** web dan mobile*
-* Involved in the full lifecycle: planning, development, testing, and maintenance<br>
-  *Terlibat dari tahap perencanaan, pengembangan, testing hingga pemeliharaan aplikasi*
+* Developed applications using **OutSystems** (low-code platform) with React-based workflows
+* Ensured responsiveness across web & mobile
+* Involved in full development lifecycle and maintenance
 
-### 🔍 SEO Intern – Kampus Merdeka @ Malatours (February 2021 – July 2021)
+### 🔍 SEO Analyst — **Mala Tours (Kampus Merdeka)**
 
-* Developed content strategies for promotion and search engine optimization (SEO)<br>
-  *Mengembangkan strategi konten untuk promosi dan optimisasi mesin pencari (SEO)*
-* Boosted organic search rankings by up to 80%<br>
-  *Meningkatkan peringkat pencarian organik hingga 80%*
-* Conducted keyword research and optimized WordPress-based content<br>
-  *Melakukan riset kata kunci dan optimasi konten berbasis WordPress*
+*Feb 2021 – Jul 2021*
+
+* Improved SEO by 80% via keyword research and on-page optimization
+* Strategized content for organic growth on WordPress platform
 
 ---
 
-## 👥 Organizations
+## 🧪 Projects
 
-*Organisasi*
-
-### 🤖 Robotics Student Club – Staff Member (Jan 2021 – Dec 2021)
-
-* Participated in various robotics projects and competitions<br>
-  *Terlibat dalam berbagai proyek dan kompetisi robotika*
-* Collaborated on designing, building, and testing robots<br>
-  *Berkolaborasi dalam merancang, membangun, dan menguji robot*
-* Attended technical training (microcontroller programming & hardware development)<br>
-  *Mengikuti pelatihan teknis (pemrograman mikrokontroler & perangkat keras)*
-
-### 🎥 Multimedia Student Club – Head of Academic Staff (Jan 2020 – Dec 2020)
-
-* Led curriculum and training material design in multimedia<br>
-  *Memimpin desain kurikulum & materi pelatihan di bidang multimedia*
-* Organized internal classes, workshops, and seminars<br>
-  *Mengatur kuliah, lokakarya, dan seminar internal*
-* Represented the division in academic meetings and conferences<br>
-  *Mewakili divisi dalam pertemuan dan konferensi akademik*
+* **POS System (Laravel + MySQL)** – Built for BNSP certification, with login, sales, and reporting features
+* **CRWN Shop (React + Firebase)** – E-commerce project with auth, CRUD, cart & dashboard
+  ➤ Demo: [https://crwn-toko.netlify.app](https://crwn-toko.netlify.app)
+* **API Contact Management (Go + Gin + PostgreSQL)** – RESTful API for managing users, contacts & addresses
 
 ---
 
-## 📨 Contact Me
+## 📜 Certifications & Training
 
-*Hubungi Saya*
+* **Go - The Complete Guide** — *Udemy*
+  🗓️ 2025
+  *Comprehensive course covering Golang fundamentals, web development, and API building.*
 
-* 📧 Email: [fachransandi@gmail.com](mailto:fachransandi@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/fachransandi](https://www.linkedin.com/in/fachransandi)
+* **Web Programming (BNSP Certification)** — *PPKD Jakarta Pusat*
+  🗓️ 2025
+  *National-level certified training in fullstack web development using Laravel and React.*
+
+* **Next.js 15 & React - The Complete Guide** — *Udemy*
+  🗓️ 2024
+  *Mastering modern React architecture with Next.js, routing, SSR, and deployment.*
+
+* **React & TypeScript - The Practical Guide** — *Udemy*
+  🗓️ 2024
+  *Strong focus on type safety, component patterns, and real-world usage in large-scale apps.*
+
+* **Frontend Bootcamp** — *Binar Academy*
+  🗓️ 2021
+  *Project-based bootcamp on React, JavaScript, and frontend best practices.*
 
 ---
 
@@ -144,6 +108,18 @@ Bachelor of Computer Engineering — Graduated in 2023<br>
 
   <img src="/images/9ubbpa.gif" alt="Funny GIF" height="200" />
 
-<br/> <img src="https://nirzak-streak-stats.vercel.app/?user=tiedsandi&theme=dark&hide_border=false" alt="GitHub Streak" /> <br/> <img src="https://raw.githubusercontent.com/tiedsandi/tiedsandi/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" /> <img src="https://raw.githubusercontent.com/tiedsandi/tiedsandi/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
+  <br/>  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tiedsandi&theme=dark&hide_border=false" alt="GitHub Streak" />  
+  <img src="https://raw.githubusercontent.com/tiedsandi/tiedsandi/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />  
+  <img src="https://raw.githubusercontent.com/tiedsandi/tiedsandi/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
 
 </div>
+
+---
+
+## 📨 Contact Me
+
+* 📧 Email: [fachransandi@gmail.com](mailto:fachransandi@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/fachransandi](https://www.linkedin.com/in/fachransandi)
+* 💻 Website: [https://fachran-sandi.netlify.app](https://fachran-sandi.netlify.app)
+* 🧑‍💻 GitHub: [github.com/TiedSandi](https://github.com/TiedSandi)
